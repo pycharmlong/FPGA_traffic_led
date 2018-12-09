@@ -1,3 +1,3 @@
-# FPGA_trafficl_ed
+# FPGA_traffic_led
 交通灯程序：
   甲乙两条道路的十字路口，三个定时器分别定时30ms，25ms，5ms，甲通行时间为30ms，乙通行时间为25ms，黄灯时间均为5ms
